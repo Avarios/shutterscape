@@ -1,0 +1,5 @@
+const COOKIE_NAME = 'shutterscape'
+const APPWRITE_PROJECT_ID = '68585d30002f176f560b';
+const APPWRITE_ENDPOINT = 'http://localhost/v1';
+
+export {  COOKIE_NAME, APPWRITE_PROJECT_ID,APPWRITE_ENDPOINT };
